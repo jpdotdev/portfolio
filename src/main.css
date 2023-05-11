@@ -231,6 +231,11 @@
   font-size: 1.25rem;
 }
 
+.icon-text {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+}
+
 .section-title {
   height: 9vh;
 }
@@ -589,6 +594,13 @@ article p {
       border-radius: 0;
     }
 
+.github {
+  color: white;
+}
+
+body {
+      font-family: 'Lato', sans-serif !important;
+}
 
 body {
   margin: 0;
