@@ -213,6 +213,7 @@
   background-size: cover;
   width: 100%;
   margin-bottom: 5%;
+  box-shadow: 0 0 8px 8px #212529 inset;
 }
 .myName {
   text-align: center;
@@ -235,6 +236,7 @@
   font-family: 'Lato', sans-serif;
   font-weight: 500;
 }
+
 
 .section-title {
   height: 9vh;
@@ -293,6 +295,7 @@ article p {
   }
   .banner {
     height: 5vh;
+    box-shadow: 0 0 8px 8px #212529 inset;
   }
   .main {
     height: 50vh;
@@ -332,6 +335,7 @@ article p {
 @media (max-width: 650px) {
   .banner {
     height: 3vh;
+    box-shadow: 0 0 8px 8px #212529 inset;
   }
   .myName {
     font-size: 0.5rem;
@@ -351,6 +355,7 @@ article p {
 @media (max-width: 1500px) {
   .banner {
     height: 20vh;
+    box-shadow: 0 0 8px 8px #212529 inset;
   }
   .myName {
     font-size: 1.40rem;
